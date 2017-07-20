@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="todo">Add Todo</string>
+    <string name="done">Done</string>
+    <string name="not_done">Not Done</string>
+    <string name="hint_todo">Enter Todo</string>
+    <string name="add_btn">Add</string>
+    <string name="date">6--17--2017</string>
+    <array name="set_todo_category">
+        <item>School</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>Other</item>
+    </array>
+    <string name="todo_description">Todo Description</string>
+    <string-array name="todo_category">
+        <item>All</item>
+        <item>Home</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+</resources>
